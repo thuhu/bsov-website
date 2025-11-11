@@ -388,6 +388,7 @@ p {
 
 /* tweak sizes on small screens */
 @media (max-width: 768px) {
+    .about-hero .floating-img,
     .float-1, .float-2, .float-3, .float-4, .float-5, .float-6 { display: none; }
 }
 

@@ -1,0 +1,42 @@
+# Git
+.git
+.gitignore
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# IDE and editor files
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# Temporary files
+tmp/
+temp/
+
+# Build artifacts (if any)
+dist/
+build/
+
+# Environment files (sensitive data)
+.env
+.env.local
+.env.*.local
+
+# Documentation
+README.md
+LICENSE
+CHANGELOG.md
